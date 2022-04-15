@@ -76,7 +76,8 @@ header span.highlight, header li.current a{
 }
 /* showcase*/
 #showcase{
-	background: url("./images/showcase.jpg") no-repeat 0 -500px ;
+	//background: url("./images/showcase.jpg") no-repeat 0 -500px ;
+	background:rgba(39,40,14,0.4);
 	min-height: 400px;
 	color: #ffffff;
 	text-align: center;
