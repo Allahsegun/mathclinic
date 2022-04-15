@@ -241,7 +241,7 @@ div #side-bar h1{
 .mySlides {display: none;}
 img {
 /* 	vertical-align: middle; */
-	width:100%;
+	width:80%;
 	margin: auto;
 	height:auto;
 	padding-top: 30px;
